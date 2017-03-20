@@ -1,0 +1,22 @@
+{
+  "name": "chocolatechain",
+  "version": "1.0.0",
+  "description": "a chocolate blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/validitylabs/chocolatechain.git"
+  },
+  "author": "S.C.Buergel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/validitylabs/chocolatechain/issues"
+  },
+  "homepage": "https://github.com/validitylabs/chocolatechain#readme",
+  "dependencies": {
+    "web3": "^0.18.2"
+  }
+}
